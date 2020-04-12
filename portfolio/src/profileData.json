@@ -1,0 +1,82 @@
+{
+	"landing": {
+		"firstName": "Saurabh Kumar",
+		"lastName": " Singh",
+		"phoneNumber": "+91-8426028076",
+		"bio": "Hello! I am Saurabh Kumar Singh.Learning AI, DL and Video Analytics, A young enthusiastic boy carrying full of dreams in his eyes, having the hunger for technical skills.",
+    "email": "saurabh16100@gmail.com",
+    "linkedin": "https://linkedin.com/in/saurabh-kumar-singh-006947128",
+		"github": "https://github.com/imSrbh"
+	},
+	"experience": [
+		{
+				"position": "IVA Engineer Intern",
+				"organization": "smartcow.ai",
+				"aboutWork": "Working on NVIDIA's Jetson platform to provide AI at the EDGE.",
+				"fromDate": "January 2020",
+				"toDate": "Present"
+		},
+		{
+			"position": "Computer Vision Intern",
+			"organization": "CodeVector Labs",
+			"aboutWork": "Worked on Object Detection , Object Segmentation and other computer vision techniques for our custom dataset in Cricket. Worked on Text Detection in a video and then blur it and Annotated own dataset to train YOLO object detection model. Developed various POCs.",
+			"fromDate": "June 2019",
+			"toDate": "October 2019"
+		},
+		{
+			"position": "Android Developer Intern",
+			"organization": "NHM Chhattisgarh",
+			"aboutWork": "Developed health awareness Hindi android application. Used GOOGLE's Firebase to store the realtime and static database.",
+			"fromDate": "September 2018",
+			"toDate": "January 2019"
+		}
+	],
+	"education": [{
+			"university": "International Institute of Information Technology Naya Raipur",
+			"degree": "Bachelor of Technology",
+			"gpa": "7.8",
+			"fromDate": "August 2016",
+			"toDate": "Present"
+		}
+	],
+	"skills": [{
+			"name": "C/C++"
+		},
+		{
+			"name": "glib"
+		},
+		{
+			"name": "Basic Java"
+		},
+		{
+			"name": "Python"
+		},
+		{
+			"name": "Docker"
+		},
+		{
+			"name": "Firebase"
+		},
+		{
+			"name": "mySQL"
+		},
+		{
+			"name": "CUDA"
+		}
+		
+	],
+	"interests": {
+		"paragraphOne": "Apart from being a AI enthusiast, I enjoy to do some front end work working with HTML, JSX etc and exploring GitHub ",
+		"paragraphTwo": "When at Home I use to play cricket and mobile games, watching some sci-fi web series, meeting with people."
+	},
+	"awards": [{
+			"awardDetail": "Star of The Month Award for Excellence work delivery at CodeVector Labs."
+		},
+		{
+			"awardDetail": "RunnerUP in Industry Academia Meet 2019, IIIT Naya Raipur."
+		},
+		{
+			"awardDetail": "Medhavi Chhatra Samman-2015 : Among Top 10 Meritorious Students in State."
+		}
+	]
+}
